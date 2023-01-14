@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.1",
 	"Category": "Samples",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "MobileRobotServer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "PixelStreaming",
